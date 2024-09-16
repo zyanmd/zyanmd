@@ -4,4 +4,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,git,cloudflare,nodejs,vercel)](https://github.com/zyanmd/)
 
+Compasone: compasone.vercel.app
+
 > "Code is like humor. When you have to explain it, it's not funny anymore."
+> "Hobby"
