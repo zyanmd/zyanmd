@@ -2,12 +2,8 @@
 
 ✨ Assalamu’alaikum!
 
-Alhamdulillah, segala puji bagi Allah ﷻ yang telah memberikan kehidupan, ilmu, dan kesempatan untuk terus belajar.
-
 > "Dan Dia mengajarkan kepada manusia apa yang tidak diketahuinya."
 (QS. Al-'Alaq: 5)
-
-
 
 Aku bersyukur kepada Allah ﷻ atas segala nikmat-Nya, dan tak lupa berterima kasih kepada kedua orang tuaku yang selalu mendukung serta mendoakan. Semoga Allah membalas kebaikan mereka dengan keberkahan dan rahmat yang luas.
 
@@ -17,10 +13,6 @@ Aku bersyukur kepada Allah ﷻ atas segala nikmat-Nya, dan tak lupa berterima ka
 📌 Striving for Jannah ☝️
 📌 Keep learning, keep growing 🌱
 
-
-
-> "Barang siapa menempuh jalan untuk mencari ilmu, maka Allah akan mudahkan baginya jalan menuju surga."
-(HR. Muslim 2699)
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white)
