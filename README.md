@@ -15,7 +15,7 @@ Location: Indonesia, South Kalimantan, Banjarbaru
 Domain: latesturl.tech
 -------------------------
 ```
-![](https://komarev.com/ghpvc/?username=latesturl&style=flat-square)
+![](https://komarev.com/ghpvc/?username=zyanmd&style=flat-square)
 
 ## 🌐 Tech Stack
 ### 📋 Languages
@@ -42,7 +42,7 @@ Domain: latesturl.tech
 
 ## 📬 Let's Connect
 <p align="left">
-  <a href="[https://whatsapp.com/channel/0029VazeUE92Jl8KuVcHIC46](https://whatsapp.com/channel/0029VaCujsqGZNCy4ZlDiS0N)" target="_blank">
+  <a href="[[https://whatsapp.com/channel/0029VazeUE92Jl8KuVcHIC46]](https://whatsapp.com/channel/0029VaCujsqGZNCy4ZlDiS0N)" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </p>
