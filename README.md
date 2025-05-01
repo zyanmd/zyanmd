@@ -8,7 +8,7 @@
 
 ```csharp
 -------------------------
-Hostname: latesturl
+Hostname: zyanmd
 Hobbies: Watch Anime
 Best Anime: Owari no Seraph
 Location: Indonesia, South Kalimantan, Banjarbaru
