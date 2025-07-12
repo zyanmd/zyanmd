@@ -10,9 +10,9 @@
 -------------------------
 Hostname: zyanmd
 Hobbies: Watch Anime
-Best Anime: Owari no Seraph
-Location: Indonesia, South Kalimantan, Banjarbaru
-Domain: latesturl.tech
+Best Anime: waguri my kisah 
+Location: Indonesia, sumatera barat, tanah datar
+Domain: 
 -------------------------
 ```
 ![](https://komarev.com/ghpvc/?username=zyanmd&style=flat-square)
