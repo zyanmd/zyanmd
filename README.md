@@ -20,7 +20,7 @@ Domain:
 # Yuna 🇯🇵  
 ### My Japanese Sweetheart
 
-![](https://img.shields.io/badge/Relationship-💕_Since_2023-ff69b4?style=flat-square)  
+![](https://img.shields.io/badge/Relationship-💕_Since_2025-ff69b4?style=flat-square)  
 ![](https://img.shields.io/badge/Distance-5000_km-1e90ff?style=flat-square)  
 ![](https://img.shields.io/badge/Status-Forever_Love-00cec9?style=flat-square)
 
