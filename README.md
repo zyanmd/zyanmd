@@ -50,5 +50,3 @@ Domain:
 ## 👁️ Views
 
 [![](https://count.getloli.com/get/@:zyanmd?theme=gelbooru-h)](https://zyannmd.vercel.app)
-
-**zyann** [contribute](https://github.com/rahuldkjain/github-profile-readme-generator/issues/115)
