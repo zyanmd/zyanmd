@@ -15,8 +15,6 @@ Location: Indonesia, sumatera barat, tanah datar
 Domain: 
 -------------------------
 ```
-<div align="center">
-
 ## 💖 Yuna 🇯🇵
 
 <table>
@@ -30,7 +28,6 @@ Domain:
 <td width="50%">
 
 ### ❤️ Details
-```json
 {
   "name": "Yuna",
   "country": "Japan 🇯🇵",
