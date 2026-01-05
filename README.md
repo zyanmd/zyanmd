@@ -51,4 +51,4 @@ Domain:
 
 [![](https://count.getloli.com/get/@:zyanmd?theme=gelbooru-h)](https://zyannmd.vercel.app)
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=zyanmd" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=zyanmd)]
