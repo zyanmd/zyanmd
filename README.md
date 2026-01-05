@@ -15,6 +15,31 @@ Location: Indonesia, sumatera barat, tanah datar
 Domain: 
 -------------------------
 ```
+<div align="center">
+
+## 💖 Yuna 🇯🇵
+
+<table>
+<tr>
+<td width="50%">
+
+### 📸 Photo Gallery
+<img src="https://via.placeholder.com/300x200/ff6b8b/ffffff?text=Yuna+Photo" alt="Yuna" width="300" style="border-radius: 10px;">
+
+</td>
+<td width="50%">
+
+### ❤️ Details
+```json
+{
+  "name": "Yuna",
+  "country": "Japan 🇯🇵",
+  "city": "Tokyo",
+  "zodiac": "Libra",
+  "favorite_color": "Pink",
+  "message": "Ganbatte on your projects! 💪"
+}
+
 
 ## 🛠️ Tech Stack
 
