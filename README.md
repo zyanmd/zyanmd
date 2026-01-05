@@ -16,6 +16,38 @@ Domain:
 -------------------------
 ```
 
+# 💖 Yuna 🇯🇵
+
+<div align="center" style="background: transparent;">
+  
+## 🌸 My Beautiful Girlfriend
+  
+**Name:** Yuna  
+**From:** Japan 🇯🇵  
+**Status:** 💕 Together since April 2023  
+
+## ❤️ Our Love
+| Metric | Status |
+|--------|--------|
+| Days Together | ![](https://img.shields.io/badge/400%2B_Days-ff69b4?style=flat-square) |
+| Distance | ![](https://img.shields.io/badge/5000_km-1e90ff?style=flat-square) |
+| Status | ![](https://img.shields.io/badge/Going_Strong-00cec9?style=flat-square) |
+
+## 💌 To Yuna
+> 君が好きです  
+> いつもありがとう  
+> 会いたいです
+
+## 🌟 Future Dreams
+- Watch cherry blossoms together 🌸
+- Visit Tokyo Disneyland 🏰
+- Live together in Japan 🏠
+
+---
+
+💕 *Always in my heart*
+
+</div>
 
 ## 🛠️ Tech Stack
 
