@@ -51,4 +51,4 @@ Domain:
 
 [![](https://count.getloli.com/get/@:zyanmd?theme=gelbooru-h)](https://zyannmd.vercel.app)
 
-![Zyann GitHub stats](https://github-readme-stats.vercel.app/api?username=zyanmd&show_icons=true&theme=radical)
+**zyann** [contribute](https://github.com/rahuldkjain/github-profile-readme-generator/issues/115)
