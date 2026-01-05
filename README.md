@@ -44,6 +44,8 @@ Domain:
   </a>
 </p>
 
+## 👁️ Views
+
 [![](https://count.getloli.com/get/@:zyanmd?theme=gelbooru-h)](https://zyannmd.vercel.app)
 
 ## 🏆 GitHub Profile Trophy
