@@ -58,4 +58,4 @@ Domain:
 
 ![](https://gh-readme-profile.vercel.app/api?username=zyanmd&theme=transparent&locale=id&border_radius=15.4)
 
-![](https://github-profile-trophy.vercel.app/?username=zyanmd)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31hjrkxsev6qfegtg4smbctywq5y&count={count})
