@@ -6,8 +6,11 @@
 ## Hi there, I'm Hanz 👋
 🚀 **Full Stack Developer | Tech Educator | Open Source Contributor**
 
-
-[![snake](https://github.com/rezonated/rezonated/blob/main/github-contribution-grid-snake.svg)]
+<div align="center">
+  
+![snake](https://github.com/rezonated/rezonated/blob/main/github-contribution-grid-snake.svg)
+  
+</div>
 
 <div align="center" style="background: transparent;">
 
