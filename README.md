@@ -51,4 +51,4 @@ Domain:
 
 [![](https://count.getloli.com/get/@:zyanmd?theme=gelbooru-h)](https://zyannmd.vercel.app)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=zyanmd)]
+https://gh-readme-profile.vercel.app/api?username=zyanmd&theme=transparent&locale=id&title_color=0008ed
