@@ -51,7 +51,4 @@ Domain:
 
 [![](https://count.getloli.com/get/@:zyanmd?theme=gelbooru-h)](https://zyannmd.vercel.app)
 
-## 🏆 GitHub Profile Trophy
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=zyanmd&theme=dracula&row=2&column=3&margin-w=8&margin-h=8&no-frame=true&no-bg=true" alt="GitHub Trophies" style="width: 100%; max-width: 400px;">
-</div>
+![Zyann GitHub stats](https://github-readme-stats.vercel.app/api?username=zyanmd&show_icons=true&theme=radical)
