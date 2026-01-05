@@ -1,54 +1,135 @@
 <!-- Banner -->
 <div align="center">
-  <img src="https://files.catbox.moe/ew0ek8.jpg" alt="Banner" style="width: 100%; max-width: 800px;">
+  <img src="https://files.catbox.moe/ew0ek8.jpg" alt="Hanz - Full Stack Developer" width="100%" style="max-width:800px; border-radius:10px; box-shadow:0 10px 30px rgba(0,0,0,0.2);">
 </div>
 
-## Hi there, I'm Hanz 👋
-🚀 **Full Stack Developer | Tech Educator | Open Source Contributor**
+<h1 align="center">Hello World! 👋 I'm Hanz</h1>
+<h3 align="center">💻 Full Stack Developer | 🎓 Tech Educator | 🌱 Open Source Enthusiast</h3>
 
-```csharp
--------------------------
-Hostname: zyanmd
-Hobbies: Watch Anime
-Best Anime: waguri my kisah 
-Location: Indonesia, sumatera barat, tanah datar
-Domain: 
--------------------------
-```
-![](https://komarev.com/ghpvc/?username=zyanmd&style=flat-square)
-
-## 🌐 Tech Stack
-### 📋 Languages
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-
-### 📚 Frameworks & Libraries
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-
-## 📬 Let's Connect
-<p align="left">
-  <a href="[[https://whatsapp.com/channel/0029VazeUE92Jl8KuVcHIC46]](https://whatsapp.com/channel/0029VaCujsqGZNCy4ZlDiS0N)" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+<p align="center">
+  <a href="https://github.com/zyanmd?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-20+-blue?style=for-the-badge&logo=github" alt="Projects">
+  </a>
+  <a href="https://www.linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
-## 👁️ Views
+---
 
-[![](https://count.getloli.com/get/@:zyanmd?theme=gelbooru-h)](https://zyannmd.vercel.app)
+## 🚀 About Me
 
-## 🏆 GitHub Profile Trophy
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=zyanmd&theme=dracula&row=2&column=3&margin-w=8&margin-h=8&no-frame=true&no-bg=true" alt="GitHub Trophies" style="width: 100%; max-width: 400px;">
+```csharp
+class Developer {
+    string Name = "Hanz";
+    string Role = "Full Stack Developer";
+    string[] Expertise = ["Web Development", "Mobile Apps", "UI/UX"];
+    string Location = "Tanah Datar, Sumatera Barat, Indonesia";
+    string[] Interests = ["Anime", "Open Source", "Teaching Tech"];
+    string FavoriteAnime = "Waguri My Kisah";
+    
+    void Greet() {
+        Console.WriteLine("Let's build something amazing together!");
+    }
+}
+---
+
+🛠️ Tech Stack & Tools
+
+📚 Languages
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+</p>
+
+⚡ Frontend
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" alt="Vite" width="40" height="40"/>
+</p>
+
+🔧 Backend & Mobile
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native" width="40" height="40"/>
+</p>
+
+🗄️ Databases & DevOps
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+</p>
+
+---
+
+📊 GitHub Stats
+
+<div align="center">
+
+https://github-readme-stats.vercel.app/api?username=zyanmd&show_icons=true&theme=radical&hide_border=true&bg_color=00000000
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=zyanmd&layout=compact&theme=radical&hide_border=true&bg_color=00000000
+
+https://github-readme-streak-stats.herokuapp.com/?user=zyanmd&theme=radical&hide_border=true&background=00000000
+
+  <p align="center"> 
+    <img src="https://komarev.com/ghpvc/?username=zyanmd&label=Profile+Views&color=ff69b4&style=flat-square" alt="Profile Views" />
+  </p>
+</div>
+
+---
+
+🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=zyanmd&theme=dracula&row=2&column=4&margin-w=10&margin-h=10&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+</div>
+
+---
+
+🌐 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/yourusername">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://instagram.com/yourusername">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://dev.to/yourusername">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to">
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical
+
+  <p>✨ <em>"Code is like humor. When you have to explain it, it's bad." – Cory House</em> ✨</p>
+
+<sub>Last Updated: $(date +%d-%m-%Y)</sub>
+
 </div>
