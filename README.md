@@ -39,7 +39,7 @@ Domain:
 
 ## 👁️ Views
 
-[![](https://count.getloli.com/get/@:zyanmd?theme=gelbooru-h)](https://zyannmd.vercel.app)
+[![](https://count.getloli.com/get/@:zyanmd?theme=rule34)](https://zyannmd.vercel.app)
 
 ![](https://gh-readme-profile.vercel.app/api?username=zyanmd&theme=transparent&locale=id&border_radius=15.4)
 
