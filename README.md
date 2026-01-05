@@ -16,6 +16,25 @@ Domain:
 -------------------------
 ```
 
+# 💖 My Girlfriend - Yuna 🇯🇵
+
+<div align="center">
+  
+![Yuna's Banner](https://i.imgur.com/placeholder.png) <!-- Ganti dengan foto Yuna -->
+  
+## 🌸 About Yuna
+
+{
+  "name": "Yuna",
+  "nationality": "Japanese 🇯🇵",
+  "relationship": "Girlfriend",
+  "metSince": "2023",
+  "status": "💕 In Love",
+  "qualities": ["Beautiful", "Kind", "Supportive", "Smart"],
+  "hobbies": ["Anime", "Music", "Traveling", "Photography"],
+  "favoriteThings": ["Cherry Blossoms", "Matcha", "Cats", "Studio Ghibli"]
+}
+
 ## 🛠️ Tech Stack
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
