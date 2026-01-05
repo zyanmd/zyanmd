@@ -41,6 +41,6 @@ Domain:
 
 [![](https://count.getloli.com/get/@:zyanmd?theme=gelbooru-h)](https://zyannmd.vercel.app)
 
-![](https://gh-readme-profile.vercel.app/api?username=zyanmd&theme=transparent&locale=id&title_color=0008ed&bg_color=ffffff&text_color=333333&icon_color=0008ed&border_color=dddddd&custom_title=Hanz%27s%20GitHub%20Stats)
+![](https://gh-readme-profile.vercel.app/api?username=zyanmd&theme=transparent&locale=id&title_color=0099ff&text_color=333333&icon_color=0099ff&border_color=0099ff&bg_color=ffffff)
 
 ![](https://github-profile-trophy.vercel.app/?username=zyanmd)
