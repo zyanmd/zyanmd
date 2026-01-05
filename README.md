@@ -21,19 +21,19 @@ Domain:
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
 
 ### 💻 **Programming Languages**
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,php&perline=5)]
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,php&perline=5)
 
 ### ⚛️ **Frontend & UI**
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,bootstrap&perline=5)]
+![My Skills](https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,bootstrap&perline=5)
 
 ### 🔧 **Backend & Mobile**
-[![My Skills](https://skillicons.dev/icons?i=nodejs,laravel,express,reactnative&perline=4)]
+![My Skills](https://skillicons.dev/icons?i=nodejs,laravel,express,reactnative&perline=4)
 
 ### 🛠️ **Tools & Platforms**
-[![My Skills](https://skillicons.dev/icons?i=vite,vercel,cloudflare,prisma,git&perline=5)]
+![My Skills](https://skillicons.dev/icons?i=vite,vercel,cloudflare,prisma,git&perline=5)
 
 ### 🗄️ **Databases**
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgresql&perline=3)]
+![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgresql&perline=3)
 
 </div>
 
