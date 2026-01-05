@@ -44,14 +44,7 @@ Domain:
   </a>
 </p>
 
-## 📊 GitHub Stats
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zyanmd&theme=2077" alt="Profile Details" style="width: 100%; max-width: 500px;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zyanmd&theme=2077" alt="Repos per Language" style="width: 48%; max-width: 300px;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zyanmd&theme=2077" alt="Most Commit Language" style="width: 48%; max-width: 300px;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zyanmd&theme=2077" alt="Stats" style="width: 48%; max-width: 300px;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zyanmd&theme=2077&utcOffset=8" alt="Productive Time" style="width: 48%; max-width: 300px;">
-</div>
+[![](https://count.getloli.com/get/@:zyanmd?theme=gelbooru-h)](https://zyannmd.vercel.app)
 
 ## 🏆 GitHub Profile Trophy
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
