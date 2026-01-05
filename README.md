@@ -15,19 +15,6 @@ Location: Indonesia, sumatera barat, tanah datar
 Domain: 
 -------------------------
 ```
-## 💘 Love Stats
-
-
-const loveData = {
-  girlfriend: "Yuna🇯🇵",
-  relationshipStatus: "Happy & In Love",
-  anniversary: "2023-12-25",
-  lovePercentage: 100,
-  favoriteActivity: "Watching Anime Together",
-  specialMemory: "Our first date at anime convention"
-};
-
-console.log(`❤️ Loving ${loveData.girlfriend} since ${loveData.anniversary}`);
 
 ## 🛠️ Tech Stack
 
