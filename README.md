@@ -50,3 +50,5 @@ Domain:
 ## 👁️ Views
 
 [![](https://count.getloli.com/get/@:zyanmd?theme=gelbooru-h)](https://zyannmd.vercel.app)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=zyanmd&theme=dark)](https://git.io/streak-stats)
