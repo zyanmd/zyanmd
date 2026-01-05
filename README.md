@@ -15,6 +15,8 @@ Location: Indonesia, sumatera barat, tanah datar
 Domain: 
 -------------------------
 ```
+![Relationship Status](https://img.shields.io/badge/Status-In_a_Relationship-ff69b4?style=flat-square)
+![Together Since](https://img.shields.io/badge/Together_Since-2023-brightgreen?style=flat-square)
 
 ## 🛠️ Tech Stack
 
