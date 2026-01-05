@@ -6,15 +6,9 @@
 ## Hi there, I'm Hanz 👋
 🚀 **Full Stack Developer | Tech Educator | Open Source Contributor**
 
-```csharp
--------------------------
-Hostname: zyanmd
-Hobbies: Watch Anime
-Best Anime: waguri my kisah 
-Location: Indonesia, sumatera barat, tanah datar
-Domain: 
--------------------------
-```
+
+[![snake](https://github.com/rezonated/rezonated/blob/main/github-contribution-grid-snake.svg)]
+
 <div align="center" style="background: transparent;">
 
 # Yuna 🇯🇵  
