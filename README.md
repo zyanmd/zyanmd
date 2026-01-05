@@ -15,7 +15,6 @@ Location: Indonesia, sumatera barat, tanah datar
 Domain: 
 -------------------------
 ```
-![](https://komarev.com/ghpvc/?username=zyanmd&style=flat-square)
 
 ## 🛠️ Tech Stack
 
