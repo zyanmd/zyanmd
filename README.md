@@ -30,7 +30,6 @@
 
 <div align="center">
 
-## 🛠️ Tech Stack
 
 ### 🔥 **My Technologies**
 
