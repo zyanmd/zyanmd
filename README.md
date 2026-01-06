@@ -8,7 +8,7 @@
 
 <div align="center">
   
-![snake](https://github.com/rezonated/rezonated/blob/main/github-contribution-grid-snake.svg)
+![snake](https://github.com/zyanmd/rezonated/blob/main/github-contribution-grid-snake.svg)
   
 </div>
 
