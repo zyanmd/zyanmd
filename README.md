@@ -8,8 +8,8 @@
 
 <div align="center">
   
-![snake](https://github.com/zyanmd/rezonated/blob/main/github-contribution-grid-snake.svg)
-  
+![Snake animation](https://github.com/zyanmd/zyanmd/blob/output/github-contribution-grid-snake.svg)
+
 </div>
 
 <div align="center" style="background: transparent;">
