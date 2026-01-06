@@ -43,8 +43,10 @@
   
 [![](https://count.getloli.com/get/@:zyanmd?theme=boiboi)](https://zyannmd.vercel.app)
 </div>
-
+<div align="center">
+  
 ![](https://gh-readme-profile.vercel.app/api?username=zyanmd&theme=transparent&locale=id&border_radius=15.4)
+</div>
 
 <div align="center">
 
