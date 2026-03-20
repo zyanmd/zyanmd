@@ -21,9 +21,6 @@
 ![](https://img.shields.io/badge/Distance-5000_km-1e90ff?style=flat-square)  
 ![](https://img.shields.io/badge/Status-Forever_Love-00cec9?style=flat-square)
 
-> 会いたいです  
-> I miss you
-
 🌸
 
 </div>
