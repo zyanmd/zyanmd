@@ -1,52 +1,40 @@
-<!-- Banner -->
 <div align="center">
-  <img src="https://files.catbox.moe/ew0ek8.jpg" alt="Banner" style="width: 100%; max-width: 800px;">
+  <img src="https://files.catbox.moe/ew0ek8.jpg" alt="Banner" style="width: 100%; border-radius: 10px;">
 </div>
 
-## Hi there, I'm Hanz 👋
-🚀 **Full Stack Developer | Tech Educator | Open Source Contributor**
-
-<div align="center">
-  
-![Snake animation](https://github.com/zyanmd/snk/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-<div align="center" style="background: transparent;">
-
-# Yuna 🇯🇵  
-### My Japanese Sweetheart
-
-![](https://img.shields.io/badge/Relationship-💕_Since_2025-ff69b4?style=flat-square)  
-![](https://img.shields.io/badge/Distance-5000_km-1e90ff?style=flat-square)  
-![](https://img.shields.io/badge/Status-Forever_Love-00cec9?style=flat-square)
-
-🌸
-
-</div>
+<br />
 
 <div align="center">
 
+# Hi, I'm Raihan 👋
+**Full Stack Developer | Open Source Contributor**
 
-### 🔥 **My Technologies**
-
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,php,react,nextjs,vue,tailwind,bootstrap,nodejs,laravel,express,reactnative,vite,vercel,cloudflare,prisma,git,mysql,mongodb,postgresql&perline=11&theme=light)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,php,react,nextjs,laravel,tailwind,mysql,postgres,git,vite)](https://skillicons.dev)
 
 </div>
 
-## 👁️ Views
-<div align="center">
-  
-[![](https://count.getloli.com/get/@:zyanmd?theme=boiboi)](https://zyannmd.vercel.app)
-</div>
-<div align="center">
-  
-![](https://gh-readme-profile.vercel.app/api?username=zyanmd&theme=transparent&locale=id&border_radius=15.4)
-</div>
+---
+
+### 🚀 About Me
+- 🎓 **Computer Science Student** focusing on modern web ecosystem.
+- 🛠️ Building **Pipinipon**, a Japanese language learning platform.
+- 🇯🇵 Currently learning Japanese (JLPT N5/N4 progress).
 
 <div align="center">
 
-![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31e2gw3txfwphbxyga2eip73ljzq)
+### 🌸 Personal Space
+**Yuna** 🇯🇵
+`Relationship: Since 2025` • `Distance: 5000+ km` • `Status: Forever Love`
 
 </div>
 
+---
+
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://gh-readme-profile.vercel.app/api?username=zyanmd&theme=transparent&locale=id&show_icons=true" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://count.getloli.com/get/@:zyanmd?theme=boiboi" alt="Views" />
+</div>
