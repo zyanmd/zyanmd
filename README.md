@@ -9,7 +9,7 @@
 # Hi, I'm Raihan 👋
 **Full Stack Developer | Open Source Contributor**
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,php,react,nextjs,laravel,tailwind,mysql,postgres,git,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,php,react,nextjs,laravel,tailwind,mysql,postgres,mongodb,nodejs,express,prisma,vercel,cloudflare,git,vite,python&perline=9)](https://skillicons.dev)
 
 </div>
 
