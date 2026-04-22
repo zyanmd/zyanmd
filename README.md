@@ -23,7 +23,7 @@
 <div align="center">
 
 ### 🌸 Personal Space
-**Yuna** 🇯🇵
+**Yuna**
 `Relationship: Since 2025` • `Distance: 5000+ km` • `Status: Forever Love`
 
 </div>
