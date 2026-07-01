@@ -31,9 +31,6 @@
 ---
 
 ### 📊 GitHub Stats
-<div align="center">
-  <img src="https://gh-readme-profile.vercel.app/api?username=zyanmd&theme=transparent&locale=id&show_icons=true" alt="GitHub Stats" />
-</div>
 
 <div align="center">
   <img src="https://count.getloli.com/get/@:zyanmd?theme=boiboi" alt="Views" />
