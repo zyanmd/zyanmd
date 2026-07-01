@@ -20,14 +20,6 @@
 - 🛠️ Building **Pipinipon**, a Japanese language learning platform.
 - 🇯🇵 Currently learning Japanese (JLPT N5/N4 progress).
 
-<div align="center">
-
-### 🌸 Personal Space
-**Yuna**
-`Relationship: Since 2025` • `Distance: 5000+ km` • `Status: Forever Love`
-
-</div>
-
 ---
 
 ### 📊 GitHub Stats
