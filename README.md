@@ -13,15 +13,6 @@
 
 </div>
 
----
-
-### 🚀 About Me
-- 🎓 **Computer Science Student** focusing on modern web ecosystem.
-- 🛠️ Building **Pipinipon**, a Japanese language learning platform.
-- 🇯🇵 Currently learning Japanese (JLPT N5/N4 progress).
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
